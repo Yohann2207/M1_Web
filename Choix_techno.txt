@@ -1,0 +1,6 @@
+Pourquoi Flask :
+
+J’ai choisi Flask car c’est un framework très léger et rapide à mettre en place.
+Il ne nécessite que quelques lignes de code pour démarrer un serveur et créer des routes, ce qui permet de se concentrer directement sur la logique du projet.
+Flask est aussi très simple à comprendre, son fonctionnement est clair, avec une structure qui relie facilement les routes Python aux pages HTML.
+Il est adapté pour un projet de petite taille comme celui-ci, où l’objectif est uniquement de gérer l’inscription et la connexion des utilisateurs.
